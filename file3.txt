@@ -1,0 +1,4 @@
+files which one we have created tht should be ignored >>file3.txt
+echo files which one we have created tht should be ignored >>file3.txt
+echo files which one we have created tht should be ignored
+files which one we have created tht should be ignored
